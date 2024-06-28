@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "tohur@pwn-linux.xyz",
+                "Name": "Joshua Webb"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Description": "Launcher to start applications",
+        "Icon": "start-here-kde",
+        "Id": "org.kde.plasma.kickofflegacy",
+        "License": "GPLv2",
+        "Name": "Legacy Application Launcher",
+        "Version": "1.0.1",
+        "Website": "https://github.com/psifidotos/applet-window-title"
+    },
+    "Keyword": "Legacy Application Launcher",
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
